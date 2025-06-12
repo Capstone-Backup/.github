@@ -6,38 +6,38 @@ Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi i
 
 ---
 
-## Usage
+## Penggunaan
 
-You will see the landing page after you open the website. <br>
+Kamu akan melihat halaman pembuka saat pertama kali membuka website. <br>
 ![Landing Page](/opening.png)
 
-Click **"Login"** if you already have an account, or **"Sign Up"** to register first. <br>
+Klik "Login" jika sudah memiliki akun, atau "Sign Up" untuk mendaftar terlebih dahulu. <br>
 ![Login Page](/login.png) ![Register Page](/register.png)
 
-After login, you will be directed to the **Dashboard** which shows your latest blood sugar chart and news about diabetes. <br>
+Setelah berhasil login, kamu akan diarahkan ke Dashboard yang menampilkan grafik kadar gula darah terbaru serta berita seputar diabetes. <br>
 ![Dashboard](/dashboard.png)
 
 ### 1. Dashboard  
-Displays a welcome message, your recent blood sugar data (in a line chart), and diabetes-related news updates.  
-You can go back to this page anytime via the sidebar.
+Menampilkan pesan sambutan, data kadar gula darah terbaru kamu (dalam bentuk grafik garis), serta berita tentang diabetes.
+Kamu bisa kembali ke halaman ini kapan saja melalui sidebar.
 
 ### 2. Profil  
-View your profile information here, including name, age, and other health data.  
-You can also update your profile.
+Melihat informasi profil kamu di sini, termasuk nama, usia, dan data kesehatan lainnya.
+Kamu juga bisa memperbarui data profil.
 
 ### 3. Kadar Gula  
-Add your blood sugar data by entering the date, time, and value.  
-The latest 7 records will be visualized in the dashboard chart.
+Tambahkan data kadar gula darah kamu dengan memasukkan tanggal, waktu, dan nilai.
+Data terbaru akan divisualisasikan dalam grafik di dashboard.
 
 ### 4. Manajemen Obat  
-Manage your medication schedule here.  
-You can add, edit, or delete your diabetes medications along with time reminders.
+Atur jadwal konsumsi obat kamu di sini.
+Kamu bisa menambahkan, mengedit, atau menghapus obat diabetes beserta pengingat waktunya.
 
 ### 5. Prediksi  
-This feature allows you to get a prediction related to your condition using available AI functionality.
+Fitur ini memungkinkan kamu mendapatkan prediksi terkait kondisimu menggunakan fungsi AI yang tersedia.
 
 ### 6. Navigasi Sidebar  
-The sidebar is available on every page (except login/signup) and allows easy navigation between:  
+Sidebar tersedia di setiap halaman (kecuali login/signup) dan memudahkan kamu untuk berpindah antara:
 - Dashboard  
 - Profil  
 - Kadar Gula  
@@ -48,12 +48,12 @@ The sidebar is available on every page (except login/signup) and allows easy nav
 ![Sidebar](/sidebar.png)
 
 ### 7. Back Button  
-Some pages include a back button (`<`) to return to the dashboard.  
-This is useful for quickly exiting a specific feature view.
+Beberapa halaman memiliki tombol kembali (<) untuk kembali ke dashboard.
+Tombol ini berguna untuk keluar dengan cepat dari tampilan fitur tertentu.
 
 ### 8. Logout  
-Click the **Logout** button on the sidebar to sign out and return to the opening page.  
-This will also clear any session or cached data stored locally.  
+Klik tombol Logout di sidebar untuk keluar dari akun dan kembali ke halaman pembuka.
+Tindakan ini juga akan menghapus sesi atau data cache yang tersimpan secara lokal.  
 <br>
 ![Logout Page](/logout.png)
 
