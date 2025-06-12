@@ -9,13 +9,13 @@ Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi i
 ## Usage
 
 You will see the landing page after you open the website. <br>
-![Landing Page](/imgs/mobile/opening.png)
+![Landing Page](/opening.png)
 
 Click **"Login"** if you already have an account, or **"Sign Up"** to register first. <br>
-![Login Page](/imgs/mobile/login.png) ![Register Page](/imgs/mobile/register.png)
+![Login Page](/login.png) ![Register Page](/register.png)
 
 After login, you will be directed to the **Dashboard** which shows your latest blood sugar chart and news about diabetes. <br>
-![Dashboard](/imgs/mobile/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ### 1. Dashboard  
 Displays a welcome message, your recent blood sugar data (in a line chart), and diabetes-related news updates.  
@@ -45,7 +45,7 @@ The sidebar is available on every page (except login/signup) and allows easy nav
 - Prediksi  
 - Logout  
 <br>
-![Sidebar](/imgs/mobile/sidebar.png)
+![Sidebar](/sidebar.png)
 
 ### 7. Back Button  
 Some pages include a back button (`<`) to return to the dashboard.  
@@ -55,7 +55,7 @@ This is useful for quickly exiting a specific feature view.
 Click the **Logout** button on the sidebar to sign out and return to the opening page.  
 This will also clear any session or cached data stored locally.  
 <br>
-![Logout Page](/imgs/mobile/logout.png)
+![Logout Page](/logout.png)
 
 # Team Members
 
