@@ -43,8 +43,8 @@ The sidebar is available on every page (except login/signup) and allows easy nav
 - Kadar Gula  
 - Manajemen Obat  
 - Prediksi  
-- Logout  
-<br>
+- Logout
+
 ![Sidebar](/sidebar.png)
 
 ### 7. Back Button  
