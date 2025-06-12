@@ -8,67 +8,54 @@ Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi i
 
 ## Usage
 
-### 1. Opening Page  
-Saat pertama kali membuka aplikasi, kamu akan melihat halaman pembuka.  
-Klik tombol **Login** atau **Sign Up** untuk melanjutkan.
+You will see the landing page after you open the website. <br>
+![Landing Page](/imgs/mobile/opening.png)
 
-![Opening Page](/imgs/opening.png)
+Click **"Login"** if you already have an account, or **"Sign Up"** to register first. <br>
+![Login Page](/imgs/mobile/login.png) ![Register Page](/imgs/mobile/register.png)
 
----
+After login, you will be directed to the **Dashboard** which shows your latest blood sugar chart and news about diabetes. <br>
+![Dashboard](/imgs/mobile/dashboard.png)
 
-### 2. Login / Register Page  
-Jika kamu sudah memiliki akun, silakan login. Jika belum, kamu bisa mendaftar terlebih dahulu.
+### 1. Dashboard  
+Displays a welcome message, your recent blood sugar data (in a line chart), and diabetes-related news updates.  
+You can go back to this page anytime via the sidebar.
 
-![Login Page](/imgs/login.png) ![Register Page](/imgs/register.png)
+### 2. Profil  
+View your profile information here, including name, age, and other health data.  
+You can also update your profile.
 
----
+### 3. Kadar Gula  
+Add your blood sugar data by entering the date, time, and value.  
+The latest 7 records will be visualized in the dashboard chart.
 
-### 3. Dashboard  
-Setelah berhasil login, kamu akan diarahkan ke **Dashboard**, tempat kamu bisa melihat grafik gula darah dan berita terkini terkait diabetes.
+### 4. Manajemen Obat  
+Manage your medication schedule here.  
+You can add, edit, or delete your diabetes medications along with time reminders.
 
-![Dashboard](/imgs/dashboard.png)
+### 5. Prediksi  
+This feature allows you to get a prediction related to your condition using available AI functionality.
 
----
+### 6. Navigasi Sidebar  
+The sidebar is available on every page (except login/signup) and allows easy navigation between:  
+- Dashboard  
+- Profil  
+- Kadar Gula  
+- Manajemen Obat  
+- Prediksi  
+- Logout  
+<br>
+![Sidebar](/imgs/mobile/sidebar.png)
 
-### 4. Sidebar Navigation  
-Gunakan sidebar untuk menjelajahi fitur-fitur aplikasi:
-- Dashboard
-- Profil
-- Kadar Gula
-- Manajemen Obat
-- Prediksi
-- Logout
+### 7. Back Button  
+Some pages include a back button (`<`) to return to the dashboard.  
+This is useful for quickly exiting a specific feature view.
 
-![Sidebar Navigation](/imgs/sidebar.png)
-
----
-
-### 5. Input Kadar Gula  
-Di halaman **Kadar Gula**, kamu bisa mencatat kadar gula darah harianmu.
-
-![Kadar Gula](/imgs/kadar-gula.png)
-
----
-
-### 6. Manajemen Obat  
-Catat jenis dan jadwal obat yang kamu konsumsi.
-
-![Manajemen Obat](/imgs/obat.png)
-
----
-
-### 7. Prediksi  
-Dapatkan prediksi risiko berdasarkan data kesehatanmu.
-
-![Prediksi Page](/imgs/prediksi.png)
-
----
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/diawellnes.git
+### 8. Logout  
+Click the **Logout** button on the sidebar to sign out and return to the opening page.  
+This will also clear any session or cached data stored locally.  
+<br>
+![Logout Page](/imgs/mobile/logout.png)
 
 # Team Members
 
