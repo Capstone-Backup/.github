@@ -1,6 +1,6 @@
 <p align="Center"><img src="https://github.com/Capstone-Backup/.github/blob/main/DiaWellness1.png"></p>
 
-# DiaWellnes App
+# DiaWellness App
 
 Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi ini menyediakan fitur-fitur seperti pencatatan kadar gula darah, manajemen obat, prediksi kesehatan, dan berita terkini seputar diabetes.
 
@@ -57,9 +57,9 @@ Tindakan ini juga akan menghapus sesi atau data cache yang tersimpan secara loka
 <br>
 ![Logout Page](/logout.png)
 
-# Team Members
+# Anggota Tim
 
-| Student ID | Name | Learning Path | University |
+| ID Peserta | Nama | Alur Pembelajaran | Universitas |
 | :--- | :--- | :--- | :--- |
 | MC180D5Y0566 | Mohammad Valeriant Qumara Tanda | Machine Learning | Universitas Airlangga |
 | MC180D5Y1028 | Farhan Al Fauzan | Machine Learning | Universitas Airlangga |
