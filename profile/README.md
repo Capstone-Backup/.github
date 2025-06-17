@@ -1,6 +1,6 @@
 <p align="Center"><img src="https://github.com/Capstone-Backup/.github/blob/main/DiaWellness1.png"></p>
 
-# DiaWellness App
+# DiaWellness
 
 Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi ini menyediakan fitur-fitur seperti pencatatan kadar gula darah, manajemen obat, prediksi kesehatan, dan berita terkini seputar diabetes.
 
