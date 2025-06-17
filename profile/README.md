@@ -4,6 +4,11 @@
 
 Aplikasi pemantauan dan manajemen kesehatan untuk penderita diabetes. Aplikasi ini menyediakan fitur-fitur seperti pencatatan kadar gula darah, manajemen obat, prediksi kesehatan, dan berita terkini seputar diabetes.
 
+# Dokumentasi
+- [Machine Learning API](https://github.com/Capstone-Backup/ML-API)
+- [Machine Learning Model](https://github.com/Capstone-Backup/ML)
+- [Front-End Back-End](https://github.com/Capstone-Backup/febe)
+
 ---
 
 ## Penggunaan
